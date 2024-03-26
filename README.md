@@ -6,6 +6,6 @@ I created this for learn golang fundamentals.
 If you want you can test this app.
 
 ## Installation
-<Clone Application>
+clone Application
 terminal:
-<go run>
+go run
